@@ -16,6 +16,8 @@ This document provides details on testing various services after running the `do
     ```
     Or open in your browser: [http://localhost:3000/users](http://localhost:3000/users)
 
+![User Service](screenshots/user-service.png)
+
 ---
 
 ### **Product Service**
@@ -27,6 +29,8 @@ This document provides details on testing various services after running the `do
     ```
     Or open in your browser: [http://localhost:3001/products](http://localhost:3001/products)
 
+![Product Service](screenshots/product-service.png)
+
 ---
 
 ### **Order Service**
@@ -37,6 +41,8 @@ This document provides details on testing various services after running the `do
     curl http://localhost:3002/orders
     ```
     Or open in your browser: [http://localhost:3002/orders](http://localhost:3002/orders)
+
+![Order Service](screenshots/order-service.png)
 
 ---
 
@@ -55,6 +61,8 @@ This document provides details on testing various services after running the `do
     ```
     curl http://localhost:3003/api/orders
     ```
+
+![Gateway Service](screenshots/gateway-service.png)
 
 ---
 
